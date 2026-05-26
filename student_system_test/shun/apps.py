@@ -6,3 +6,4 @@ class ShunConfig(AppConfig):
     name = 'shun'
 
 # git change test
+
